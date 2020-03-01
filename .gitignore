@@ -107,3 +107,18 @@ venv.bak/
 
 # just some dev files
 dr_util_config.json
+
+# minio data folder
+minio/data/
+
+# jupyter entry folder
+jupyter/work/*
+
+#robomaker temp files
+robo/
+
+# sagemaker virtual pyton env
+sagemaker_venv
+
+# sagemaker log
+rl_coach/nohup.out
